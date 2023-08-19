@@ -1,2 +1,2 @@
 # desafio-dio-swift
-desafios dio - swift
+Simples desafio do curso da DIO.
